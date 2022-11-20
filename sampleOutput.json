@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt, Amanda Macias",
+            "title": "Zelenskyy visits recaptured Kherson as alleged war crimes emerge; landmines pose a danger to liberators - CNBC",
+            "description": "After scenes of jubilation in the newly liberated city of Kherson in southern Ukraine over the last few days, the hard work begins to make the region safe.",
+            "url": "https://www.cnbc.com/2022/11/14/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107151163-16684341972022-11-14t105959z_1388542881_rc2mlx9y9ccs_rtrmadp_0_ukraine-crisis-kherson-zelenskiy.jpeg?v=1668435841&w=1920&h=1080",
+            "publishedAt": "2022-11-14T18:30:00Z",
+            "content": "Ukraine's Minister of Foreign Affairs Dmytro Kuleba called for an end to the \"normalization of Russian aggression,\" saying support for Ukraine and toleration of Russia are irreconcilable. \r\n\"No other… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, Michelle Watson",
+            "title": "Student suspect in custody after 3 football players shot dead and 2 people wounded at the University of Virginia, police say - CNN",
+            "description": "Police have in custody a University of Virginia student and ex-UVA football player suspected of fatally shooting three current players and wounding two other people late Sunday at the school's main campus in Charlottesville as a bus returned from a class fiel…",
+            "url": "https://www.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114093210-01-uva-shooting-1114.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T18:17:00Z",
+            "content": "Police have in custody a University of Virginia student and ex-UVA football player suspected of fatally shooting three current players and wounding two other people late Sunday at the schools main ca… [+6410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Elon Musk Live | Twitter News Live | Elon Musk Is Working Day In And Out At The Twitter Headquarters - CNN-News18",
+            "description": "Elon Musk Live | Twitter News Live | Elon Musk Is Working Day In And Out At The Twitter HeadquartersElon Musk is making some important changes at Twitter and...",
+            "url": "https://www.youtube.com/watch?v=XIOMfTnfoG8",
+            "urlToImage": "https://i.ytimg.com/vi/XIOMfTnfoG8/maxresdefault_live.jpg",
+            "publishedAt": "2022-11-14T17:31:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Joe Biden Press Conference LIVE | Biden Meets Xi Jinping In Bali | G20 Summit | India Today Live - India Today",
+            "description": "Joe Biden Press Conference LIVE | Biden Meets Xi Jinping In Bali | G20 Summit | India Today Live#joebiden #xijinping #g20summit #itlivestream Subscribe to In...",
+            "url": "https://www.youtube.com/watch?v=-sHFiX2qgSU",
+            "urlToImage": "https://i.ytimg.com/vi/-sHFiX2qgSU/maxresdefault_live.jpg",
+            "publishedAt": "2022-11-14T17:02:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Adrian Horton",
+            "title": "John Oliver on British monarchy: ‘Like an appendix. We’ve long evolved past needing them’ - The Guardian",
+            "description": "The Last Week Tonight host goes in on the British royal family, from their vast private wealth to their refusal to reckon with their colonial history",
+            "url": "https://www.theguardian.com/tv-and-radio/2022/nov/14/john-oliver-british-monarchy",
+            "urlToImage": "https://i.guim.co.uk/img/media/3c2a5cf1c84877c0ee3014dea30d8881340ae837/84_106_2632_1579/master/2632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e660e17d1aab40996840917db58bfae",
+            "publishedAt": "2022-11-14T16:59:00Z",
+            "content": "John Oliver went in on the British monarchy on Last Week Tonight, as the royal family is in transition following the death of Queen Elizabeth II at age 96 in September. In the UK, the argument was th… [+5983 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ariane de Vogue",
+            "title": "Supreme Court says House January 6 committee can get Kelli Ward's phone and text records - CNN",
+            "description": "The Supreme Court cleared the way on Monday for the House select committee investigating the January 6 US Capitol attack to obtain the phone and text records of Arizona Republican Party Chair Kelli Ward.",
+            "url": "https://www.cnn.com/2022/11/14/politics/kelli-ward-supreme-court/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220624135950-kelli-ward-michael-ward-arizona-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T16:46:00Z",
+            "content": "The Supreme Court cleared the way on Monday for the House select committee investigating the January 6 US Capitol attack to obtain the phone and text records of Arizona Republican Party Chair Kelli W… [+3395 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "The first cubesat to fly and operate at the Moon has successfully arrived - Ars Technica",
+            "description": "\"That is a huge, huge step for the agency.\"",
+            "url": "https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/CAPSTONE-x-760x380.jpg",
+            "publishedAt": "2022-11-14T16:42:23Z",
+            "content": "Enlarge/ The CAPSTONE payload is seen here, atop an Electron rocket in New Zealand.\r\n19 with 0 posters participating\r\nAfter a journey of nearly five months, taking it far beyond the Moon and back, th… [+3004 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jennifer Hassan",
+            "title": "Mike Pence says Trump's Jan. 6 actions were 'reckless' in ABC interview - The Washington Post",
+            "description": "Former vice president Mike Pence, a potential 2024 presidential contender, said Donald Trump « endangered » his family and others in the Capitol on Jan. 6, 2021.",
+            "url": "https://www.washingtonpost.com/politics/2022/11/14/pence-trump-reckless-remarks-jan-6/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BOMAV4A6GYI63HHGNASTXUYYMQ.jpg&w=1440",
+            "publishedAt": "2022-11-14T16:40:00Z",
+            "content": "Comment on this story\r\nFormer vice president Mike Pence said Donald Trumps rhetoric during the Jan. 6, 2021, attack on the U.S. Capitol was reckless and that the former presidents actions endangered … [+4310 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France, Scottie Andrew",
+            "title": "John Aniston, 'Days of Our Lives' actor and Jennifer Aniston's father, dead at 89 - CNN",
+            "description": "John Aniston, a veteran actor known for his work on the daytime drama \"Days of Our Lives,\" has died, his daughter, actress Jennifer Aniston, shared on Monday.",
+            "url": "https://www.cnn.com/2022/11/14/entertainment/john-aniston-obit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114102506-01-john-aniston-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T16:15:00Z",
+            "content": "John Aniston, a veteran actor known for his work on the daytime drama Days of Our Lives, has died, his daughter, actress Jennifer Aniston, shared on Monday.\r\nHe was 89.\r\nYou were one of the most beau… [+3261 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Isil Sariyuce, Sophie Tanno, Holly Yan, Sana Noor Haq",
+            "title": "Turkey says Istanbul bomb suspect is Syrian national with ties to Kurdish groups - CNN",
+            "description": "The woman detained under suspicion of carrying out the deadly bomb blast in Istanbul on Sunday is a Syrian national who was trained by Kurdish militants, according to Turkish authorities.",
+            "url": "https://www.cnn.com/2022/11/14/world/istanbul-turkey-attack-suspect-syria-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114121103-04-istanbul-attack-111422.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T15:39:00Z",
+            "content": "The woman detained under suspicion of carrying out the deadly bomb blast in Istanbul on Sunday is a Syrian national who was trained by Kurdish militants, according to Turkish authorities. \r\nTurkish p… [+5301 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Dave Lee, Mark Wembridge",
+            "title": "Jeff Bezos pledges to give away most of his fortune - Financial Times",
+            "description": "Amazon founder’s decision comes after he gave singer Dolly Parton $100mn to send to charities of her choice",
+            "url": "https://www.ft.com/content/6a1b87d8-696c-4259-b30a-e140e49bbfd4",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F996c87fd-a6cc-4258-a2a9-36cb5d633baf.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-11-14T15:27:39Z",
+            "content": "Amazon founder and former chief executive Jeff Bezos has for the first time pledged to give away most of his $124bn fortune during his lifetime.\r\nAsked during an interview whether he intends to donat… [+2076 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Max Seddon, Felicia Schwartz",
+            "title": "CIA director warns Russia against use of nuclear weapons - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/7bcee5c1-99be-45fa-bea0-8ef10648b31c",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T15:14:40Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Mary Kate Carr",
+            "title": "Dave Chappelle's Saturday Night Live monologue criticized by ADL, others - The A.V. Club",
+            "description": "Dave Chappelle's 15-minute Saturday Night Live monologue about Kanye West and Kyrie Irving perpetuates harmful antisemitic tropes, argues the ADL",
+            "url": "https://www.avclub.com/dave-chappelle-saturday-night-live-criticized-by-adl-1849779368",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/615a061bfa0dca2ecabb905449cebfe9.png",
+            "publishedAt": "2022-11-14T15:14:11Z",
+            "content": "How unsurprising it is to wake up and find that Dave Chappelles Saturday Night Live appearance is being criticized for his controversial statements. Some have surely been waiting in vindictive antici… [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LEX18 Lexington KY News"
+            },
+            "author": "Jordan Mickle",
+            "title": "Four in critical condition after Magoffin County school bus with students on board crashes - LEX 18 News - Lexington, KY",
+            "description": "There has been a serious bus accident in Magoffin County involving students, and four are in critical condition.",
+            "url": "https://www.lex18.com/news/magoffin-county-school-bus-with-children-on-board-involved-in-serious-crash",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/7eca1fc/2147483647/strip/true/crop/1078x566+0+383/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd0%2Fcf%2Fd6448d8e405dab99f333901c5b25%2F315738035-868293387691317-5888166443940696882-n.jpg",
+            "publishedAt": "2022-11-14T15:00:00Z",
+            "content": "MAGOFFIN COUNTY, Ky. (LEX 18) There has been a serious bus accident in Magoffin County involving students, and four are in critical condition.\r\nMagoffin County Judge Executive Matthew Wireman tells L… [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo.com"
+            },
+            "author": "Nintendo",
+            "title": "A new season of Splatoon 3 content is about to surface! - News - Nintendo",
+            "description": "A whole new catalog of content is coming to the Splatoon™ 3 game for Nintendo Switch™ systems! Starting on Dec. 1, all Splatoon 3 players with an active Nintendo Switch Online membership* will have access to the new “Chill Season 2022” content, whic…",
+            "url": "https://www.nintendo.com/whatsnew/a-new-season-of-splatoon-3-content-is-about-to-surface/",
+            "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+            "publishedAt": "2022-11-14T14:28:14Z",
+            "content": "11/14/22\r\nLearn more\r\nA whole new catalog of content is coming to the Splatoon 3 game for Nintendo Switch systems! Starting on Dec. 1, all Splatoon 3 players with an active Nintendo Switch Online mem… [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sammy Mngqosini",
+            "title": "American MMA fighter Anthony 'Rumble' Johnson dies at 38 from undisclosed illness - CNN",
+            "description": "American MMA lightweight fighter Anthony 'Rumble' Johnson has died at the age of 38 from an undisclosed illness, according to Bellator MMA.",
+            "url": "https://www.cnn.com/2022/11/14/sport/anthony-rumble-johnson-mma-dies-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114130954-01-anthony-rumble-johnson-death.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T14:05:00Z",
+            "content": "American MMA lightweight fighter Anthony Rumble Johnson has died at the age of 38 from an undisclosed illness, according to Bellator MMA. \r\nIt is with great sadness we acknowledge the passing of Anth… [+866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Daniel Oropeza",
+            "title": "How to Watch the 2022 FIFA World Cup for Free - Lifehacker",
+            "description": "The World Cup starts this Sunday in Qatar. Here's how to watch all the matches for free.",
+            "url": "https://lifehacker.com/how-to-watch-the-2022-fifa-world-cup-for-free-1849774977",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12f8a6c3b2cde469d4bdbebf9692fde7.jpg",
+            "publishedAt": "2022-11-14T14:00:00Z",
+            "content": "The most-watched sport event on the planet, the FIFA World Cup, takes place in Qatar this year and starts this Sunday, Nov. 20 and will go until Dec. 18. There are several ways to watch, including ca… [+3133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Five wildest moments from NFL Week 10: Tom Brady is not a receiver, plus Vikings-Bills madness - CBS Sports",
+            "description": "Breaking down the wildest moments from NFL Week 10",
+            "url": "https://www.cbssports.com/nfl/news/five-wildest-moments-from-nfl-week-10-tom-brady-is-not-a-receiver-plus-vikings-bills-madness/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/14/4249675f-06dd-4038-8982-2d589b40bb1f/thumbnail/1200x675/9cd63765fb1c823588fbd43feb600415/bradybowles.jpg",
+            "publishedAt": "2022-11-14T13:12:29Z",
+            "content": "Week 10 of the 2022 NFL regular season may have been the wildest week thus far. We saw incredible endings in high-powered matchups, unlikely heroes stepping up to carry their teams and then, of cours… [+6194 chars]"
+        }
+    ]
+}
